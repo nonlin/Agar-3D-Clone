@@ -1,0 +1,30 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.071 seconds
+desktop: 2560x1440 60Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\George\Documents\Unity Projects\Roll a Ball\agar3D_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 31e8 -> priority: 1 
+  Thread -> id: 10b8 -> priority: 1 
